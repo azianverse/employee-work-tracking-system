@@ -3,8 +3,8 @@
 A ServiceNow scoped application prototype built with React + Tailwind CSS.
 
 **Capstone Project** — Universidad de Dagupan  
-**Author:** Clarissa Angel Gutlay  
-**Course:** Human Resources · ServiceNow Development
+**Author:** Clarissa Angel Gutlay & Ana Victoria Alentajan
+**Program:** BS Computer Science 3
 
 ---
 
